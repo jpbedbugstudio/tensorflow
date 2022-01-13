@@ -1,0 +1,8 @@
+trade_date,score,bollinger_up_distance_ratio,bollinger_down_distance_ratio,yesterday_noise,yesterday_range_ratio,target_ratio,today_open_price,current_price,current_high_price_ratio,current_low_price_ratio,result
+2020-12-31,59,16.09,40.67,0.73,8.77,4.29,0.0,0.0,4.6,2.07,SHORT
+2021-01-01,59,13.25,37.74,0.84,5.45,2.63,0.0,0.0,2.78,-1.22,LONG
+2021-01-02,59,2.63,48.34,0.07,22.93,8.63,0.01,0.01,9.58,-1.95,LONG
+2021-01-06,59,2.62,90.8,0.86,15.28,6.97,0.01,0.01,7.85,-3.06,SHORT
+2021-01-08,-11,4.93,91.74,0.69,15.45,-6.87,0.01,0.01,1.38,-7.66,LONG
+2021-01-08,-29,17.23,89.97,0.59,16.49,-8.11,0.01,0.01,0.99,-9.83,LONG
+2021-01-09,59,21.34,88.12,0.99,16.23,7.5,0.01,0.01,8.85,-1.12,SHORT
