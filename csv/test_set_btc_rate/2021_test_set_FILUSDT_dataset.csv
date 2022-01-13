@@ -1,0 +1,7 @@
+trade_date,score,bollinger_up_distance_ratio,bollinger_down_distance_ratio,yesterday_noise,yesterday_range_ratio,target_ratio,today_open_price,current_price,current_high_price_ratio,current_low_price_ratio,current_btc_rate,result
+2021-01-01,17,52.18,9.78,0.43,9.02,4.11,21.44,22.45,4.68,-1.75,-0.2,LONG
+2021-01-04,7,41.5,13.2,0.77,5.85,2.88,21.49,22.18,3.23,0.01,-0.32,SHORT
+2021-01-07,49,34.69,14.63,0.85,6.97,3.34,21.63,22.43,3.7,-0.18,2.28,SHORT
+2021-01-07,55,29.1,15.55,0.7,5.43,2.6,21.99,22.66,3.07,-0.36,1.61,SHORT
+2021-01-08,-59,24.47,14.76,0.92,6.22,-3.0,22.08,21.32,0.5,-3.48,-5.52,LONG
+2021-01-09,-59,19.96,13.22,0.64,5.34,-2.6,22.08,21.48,-1.57,-2.74,2.23,LONG
